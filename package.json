@@ -1,0 +1,9 @@
+{
+  "name": "task7_reverse-integer",
+  "version": "0.0.0",
+  "description": "Task7_ReverseInteger",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
